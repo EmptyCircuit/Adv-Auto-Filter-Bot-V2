@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # (c) @SpEcHIDe
 
-from pyrogram import Client, enums, __version__
+from pyrofork import Client, enums, __version__
 
 from . import API_HASH, APP_ID, LOGGER, BOT_TOKEN 
 
